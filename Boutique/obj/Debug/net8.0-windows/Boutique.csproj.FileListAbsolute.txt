@@ -1,0 +1,982 @@
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Boutique.exe
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Boutique.deps.json
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Boutique.runtimeconfig.json
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Boutique.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Boutique.pdb
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.Login.resources
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.GenerateResource.cache
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GeneratedMSBuildEditorConfig.editorconfig
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfoInputs.cache
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfo.cs
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.CoreCompileInputs.cache
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\refint\Boutique.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.pdb
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.genruntimeconfig.cache
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\ref\Boutique.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.SignUp.resources
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.AssemblyReference.cache
+D:\TDTU\Công nghệ phần mềm\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.Up2Date
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.AssemblyReference.cache
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.Login.resources
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.SignUp.resources
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.GenerateResource.cache
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GeneratedMSBuildEditorConfig.editorconfig
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfoInputs.cache
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfo.cs
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.CoreCompileInputs.cache
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.sourcelink.json
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\refint\Boutique.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.pdb
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Boutique.exe
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Boutique.deps.json
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Boutique.runtimeconfig.json
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Boutique.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Boutique.pdb
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.Up2Date
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.genruntimeconfig.cache
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\ref\Boutique.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.AdminHome.resources
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.StaffHome.resources
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.SanPhamStaff.resources
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.Properties.Resources.resources
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.ConFigForm.resources
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.ForgotPassword.resources
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Boutique.exe
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Boutique.deps.json
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Boutique.runtimeconfig.json
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Boutique.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Boutique.pdb
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.AssemblyReference.cache
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.AdminHome.resources
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.ConfigForm.resources
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.ForgotPassword.resources
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.Login.resources
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.SanPhamStaff.resources
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.SignUp.resources
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.StaffHome.resources
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.Properties.Resources.resources
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.GenerateResource.cache
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GeneratedMSBuildEditorConfig.editorconfig
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfoInputs.cache
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfo.cs
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.CoreCompileInputs.cache
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.sourcelink.json
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.Up2Date
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\refint\Boutique.dll
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.pdb
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.genruntimeconfig.cache
+D:\TDTU_Documents\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\ref\Boutique.dll
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.DonThueStaff.resources
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.KhachHangToolstrip_item.resources
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.DonThueToolstrip_item.resources
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.frmChiTietDonThue.resources
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.ThanhToan.resources
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.NhanVien.resources
+D:\TDTU\Công nghệ phần mềm\Github\Đồ Án\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.frmEditNhanVien.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Boutique.exe
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Boutique.deps.json
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Boutique.runtimeconfig.json
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Boutique.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Boutique.pdb
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.AssemblyReference.cache
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.AdminHome.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.frmEditNhanVien.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.NhanVien.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.ConfigForm.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.ForgotPassword.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.Login.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.SignUp.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.DonThueStaff.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.DonThueToolstrip_item.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.frmChiTietDonThue.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.KhachHangToolstrip_item.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.SanPhamStaff.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.StaffHome.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.ThanhToan.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.Properties.Resources.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.GenerateResource.cache
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.GeneratedMSBuildEditorConfig.editorconfig
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfoInputs.cache
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfo.cs
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.CoreCompileInputs.cache
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.Up2Date
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\refint\Boutique.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.pdb
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\Boutique.genruntimeconfig.cache
+E:\CongNghePhanMem\baocao\boutique\Boutique\Boutique\obj\Debug\net8.0-windows\ref\Boutique.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Boutique.exe
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Boutique.deps.json
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Boutique.runtimeconfig.json
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Boutique.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Boutique.pdb
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.AssemblyReference.cache
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.frmEditNhanVien.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.NhanVien.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.ConfigForm.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.ForgotPassword.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.Login.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.SignUp.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.DonThueStaff.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.DonThueToolstrip_item.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.frmChiTietDonThue.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.KhachHangToolstrip_item.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.SanPhamStaff.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.StaffHome.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.ThanhToan.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.Properties.Resources.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.GenerateResource.cache
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GeneratedMSBuildEditorConfig.editorconfig
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfoInputs.cache
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfo.cs
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.CoreCompileInputs.cache
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.Up2Date
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\refint\Boutique.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.pdb
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.genruntimeconfig.cache
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\ref\Boutique.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Guna.UI2.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\System.Management.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_AddProduct.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.Home.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_EmployeeManager.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_Report.resources
+E:\CongNghePhanMem\baocao\boutique\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.AdminHome.resources
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Boutique.exe
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Boutique.deps.json
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Boutique.runtimeconfig.json
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Boutique.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Boutique.pdb
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\System.Management.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.AssemblyReference.cache
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.AdminHome.resources
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_AddProduct.resources
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_EmployeeManager.resources
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_Report.resources
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.frmEditNhanVien.resources
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.Home.resources
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.NhanVien.resources
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.ConfigForm.resources
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.ForgotPassword.resources
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.Login.resources
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.SignUp.resources
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.DonThueStaff.resources
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.DonThueToolstrip_item.resources
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.frmChiTietDonThue.resources
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.KhachHangToolstrip_item.resources
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.SanPhamStaff.resources
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.StaffHome.resources
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.ThanhToan.resources
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.Properties.Resources.resources
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.GenerateResource.cache
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GeneratedMSBuildEditorConfig.editorconfig
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfoInputs.cache
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfo.cs
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.CoreCompileInputs.cache
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.Up2Date
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.dll
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\refint\Boutique.dll
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.pdb
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.genruntimeconfig.cache
+D:\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\ref\Boutique.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Boutique.exe
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Boutique.deps.json
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Boutique.runtimeconfig.json
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Boutique.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Boutique.pdb
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Guna.UI2.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\System.Management.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.AssemblyReference.cache
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.AdminHome.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_AddProduct.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_EmployeeManager.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_Report.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.frmEditNhanVien.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.Home.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.NhanVien.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.ConfigForm.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.ForgotPassword.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.Login.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.SignUp.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.DonThueStaff.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.DonThueToolstrip_item.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.frmChiTietDonThue.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.KhachHangToolstrip_item.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.SanPhamStaff.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.StaffHome.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.ThanhToan.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.Properties.Resources.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.GenerateResource.cache
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.GeneratedMSBuildEditorConfig.editorconfig
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfoInputs.cache
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfo.cs
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.CoreCompileInputs.cache
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.Up2Date
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\refint\Boutique.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.pdb
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\Boutique.genruntimeconfig.cache
+E:\CongNghePhanMem\baocao\Boutique(update)\Boutique - dphong\Boutique\obj\Debug\net8.0-windows\ref\Boutique.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.AssemblyReference.cache
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.AdminHome.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_AddProduct.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_EmployeeManager.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_Report.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.frmEditNhanVien.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.Home.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.NhanVien.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.ConfigForm.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.ForgotPassword.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.Login.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.SignUp.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.DonThueStaff.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.DonThueToolstrip_item.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.frmChiTietDonThue.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.KhachHangToolstrip_item.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.SanPhamStaff.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.StaffHome.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.ThanhToan.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.Properties.Resources.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.GenerateResource.cache
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GeneratedMSBuildEditorConfig.editorconfig
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfoInputs.cache
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfo.cs
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.CoreCompileInputs.cache
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\refint\Boutique.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.pdb
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.exe
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.deps.json
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.runtimeconfig.json
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.pdb
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Guna.UI2.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Management.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.Up2Date
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.genruntimeconfig.cache
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\ref\Boutique.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.exe
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.deps.json
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.runtimeconfig.json
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.pdb
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Guna.UI2.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Management.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.AssemblyReference.cache
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.AdminHome.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_AddProduct.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_EmployeeManager.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_Report.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.frmEditNhanVien.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.Home.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.NhanVien.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.ConfigForm.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.ForgotPassword.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.Login.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.SignUp.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.DonThueStaff.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.DonThueToolstrip_item.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.frmChiTietDonThue.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.KhachHangToolstrip_item.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.SanPhamStaff.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.StaffHome.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.ThanhToan.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.Properties.Resources.resources
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.GenerateResource.cache
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GeneratedMSBuildEditorConfig.editorconfig
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfoInputs.cache
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfo.cs
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.CoreCompileInputs.cache
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.Up2Date
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\refint\Boutique.dll
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.pdb
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.genruntimeconfig.cache
+E:\CongNghePhanMem\baocao\Boutique(update)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\ref\Boutique.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.exe
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.deps.json
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.runtimeconfig.json
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.pdb
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Management.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.AssemblyReference.cache
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.AdminHome.resources
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_AddProduct.resources
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_EmployeeManager.resources
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_Report.resources
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.frmEditNhanVien.resources
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.Home.resources
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.NhanVien.resources
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.ConfigForm.resources
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.ForgotPassword.resources
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.Login.resources
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.SignUp.resources
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.DonThueStaff.resources
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.DonThueToolstrip_item.resources
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.frmChiTietDonThue.resources
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.KhachHangToolstrip_item.resources
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.SanPhamStaff.resources
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.StaffHome.resources
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.ThanhToan.resources
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.Properties.Resources.resources
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.GenerateResource.cache
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GeneratedMSBuildEditorConfig.editorconfig
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfoInputs.cache
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfo.cs
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.CoreCompileInputs.cache
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.Up2Date
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\refint\Boutique.dll
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.pdb
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.genruntimeconfig.cache
+D:\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\ref\Boutique.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.exe
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.deps.json
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.runtimeconfig.json
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.pdb
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Guna.UI2.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Management.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.AssemblyReference.cache
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.AdminHome.resources
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_AddProduct.resources
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_EmployeeManager.resources
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_Report.resources
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.frmEditNhanVien.resources
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.Home.resources
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.NhanVien.resources
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.ConfigForm.resources
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.ForgotPassword.resources
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.Login.resources
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.SignUp.resources
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.DonThueStaff.resources
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.DonThueToolstrip_item.resources
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.frmChiTietDonThue.resources
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.KhachHangToolstrip_item.resources
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.SanPhamStaff.resources
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.StaffHome.resources
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.ThanhToan.resources
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.Properties.Resources.resources
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.GenerateResource.cache
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GeneratedMSBuildEditorConfig.editorconfig
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfoInputs.cache
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfo.cs
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.CoreCompileInputs.cache
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.Up2Date
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\refint\Boutique.dll
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.pdb
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.genruntimeconfig.cache
+E:\CongNghePhanMem\baocao\new\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\ref\Boutique.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.exe
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.deps.json
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.runtimeconfig.json
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Boutique.pdb
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Management.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.AssemblyReference.cache
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.AdminHome.resources
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_AddProduct.resources
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_EmployeeManager.resources
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.All_User_Control.UC_Report.resources
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.frmEditNhanVien.resources
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.Home.resources
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.Admin.NhanVien.resources
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.ConfigForm.resources
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.ForgotPassword.resources
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.Login.resources
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.SignUp.resources
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.DonThueStaff.resources
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.DonThueToolstrip_item.resources
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.frmChiTietDonThue.resources
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.KhachHangToolstrip_item.resources
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.SanPhamStaff.resources
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.StaffHome.resources
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GUI.User.ThanhToan.resources
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.Properties.Resources.resources
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.GenerateResource.cache
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.GeneratedMSBuildEditorConfig.editorconfig
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfoInputs.cache
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.AssemblyInfo.cs
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.CoreCompileInputs.cache
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.csproj.Up2Date
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\refint\Boutique.dll
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.pdb
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\Boutique.genruntimeconfig.cache
+D:\update (1)\BoutiqueNonSingleton1\BoutiqueNonSingleton\Boutique\obj\Debug\net8.0-windows\ref\Boutique.dll
